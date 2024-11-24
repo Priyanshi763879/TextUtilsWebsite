@@ -5,9 +5,9 @@ import TextForm from './components/TextForm';
 import About from './components/About';
 import React, {useState} from 'react';
 import Alert from './components/Alert';
-import { BrowserRouter as Router, Routes,Route } from "react-router-dom";
+import { HashRouter as Router, Routes,Route } from "react-router-dom";
 // import {
-//   createBrowserRouter,
+//   createHashRouter,
 //   RouterProvider,
 //   Route,
 //   Link,
